@@ -1,3 +1,20 @@
+## 发展历史
+
+- 早期方法
+  - 基于规则
+  - 基于字典
+- 传统机器学习
+  - HMM
+  - MEMM
+  - CRF
+- 深度学习
+  - RNN-CRF
+  - CNN-CRF
+- 近期方法
+  - 注意力模型
+  - 迁移学习
+  - 半监督学习
+
 ## 基础知识
 
 ### 数据标注
@@ -89,4 +106,39 @@
 - 条件随机场
 
 ## 模型
+
+## 工具
+
+### Stanford NER
+
+- 基于条件随机场的命名实体识别系统
+- [官网](https://nlp.stanford.edu/software/CRF-NER.shtml) | [GitHub 地址](https://github.com/Lynten/stanford-corenlp)
+
+### MALLET
+
+- 统计自然语言处理的开源包，其序列标注工具的应用中能够实现命名实体识别
+- [官网](http://mallet.cs.umass.edu/)
+
+### Hanlp
+
+- 一系列模型与算法组成的NLP工具包，由大快搜索主导并完全开源
+- [官网](http://hanlp.linrunsoft.com/) | [GitHub 地址](https://github.com/hankcs/pyhanlp)
+
+### NLTK
+
+- [官网](http://www.nltk.org/) | [GitHub 地址](https://github.com/nltk/nltk)
+
+### SpaCy
+
+- [官网](https://spacy.io/) | [GitHub 地址](https://github.com/explosion/spaCy)
+
+
+
+### Crfsuite
+
+- 载入自己的数据集去训练CRF实体识别模型
+
+- [文档](https://sklearn-crfsuite.readthedocs.io/en/latest/?badge=latest ) | [GitHub 地址](https://github.com/yuquanle/StudyForNLP/blob/master/NLPbasic/NER.ipynb)
+
+  
 
