@@ -5,8 +5,10 @@
   - 基于字典
 - 传统机器学习
   - HMM
+    - [隐马尔科夫模型](https://mp.weixin.qq.com/s?__biz=MzA3NDIyMjM1NA==&mid=2649033804&idx=2&sn=faf79533669416849e807a0aeb2c7eee&chksm=8712b231b0653b27f94018743d6f4f64582a2a29d3caa01d61e71cfaf89a8d32dbcb877e105e&scene=21#wechat_redirect)
   - MEMM
   - CRF
+    - [条件随机场](https://mp.weixin.qq.com/s?__biz=MzA3NDIyMjM1NA==&mid=2649033930&idx=2&sn=19041a898ee193d215d2353a6ab3eb6e&chksm=8712b2b7b0653ba1f27f9288e8642d120ab850bf9cfae5293af7b027d108c1901c3e2d123629&scene=21#wechat_redirect) 
 - 深度学习
   - RNN-CRF
   - CNN-CRF
